@@ -1,1 +1,1 @@
-# Welcome to my Github, I'm Teddy a Full Stack Blockchain Developer
+## Welcome, I'm Teddy a Full Stack Blockchain Developer
