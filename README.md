@@ -19,10 +19,10 @@ Passionate about Blockchain technology and cryptocurrencies trading, I feel real
 ### Languages and Tools
 
 <p>
-  <img src="https://iconape.com/wp-content/files/uq/93481/svg/solidity.svg" width="18" />
-  <img src="https://nodejs.org/static/images/logo-hexagon-card.png" width="30" />
-  <img src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" width="30" />
-  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-512.png" width="30" />
+  <img src="https://iconape.com/wp-content/files/uq/93481/svg/solidity.svg" width="13" />
+  <img src="https://nodejs.org/static/images/logo-hexagon-card.png" width="25" />
+  <img src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" width="25" />
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-512.png" width="25" />
 </p>
 
 ### 📈 My GitHub Stats:
