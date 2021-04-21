@@ -24,3 +24,10 @@ Passionate about Blockchain technology and cryptocurrencies trading, I feel real
   <img src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" width="30" />
   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-512.png" width="30" />
 </p>
+
+### 📈 My GitHub Stats:
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JEANFRANCOISTeddy&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEANFRANCOISTeddy&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
