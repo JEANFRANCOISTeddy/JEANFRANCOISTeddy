@@ -12,7 +12,7 @@ Passionate about Blockchain technology and cryptocurrencies trading, I feel real
 
 ### About me
 
-- 💻 I'm a full-stack developer
+- 💻 I'm a Full-stack Blockchain developer
 - 🎓 French student of 20 yo
 - ⌛ Building my future...
 
