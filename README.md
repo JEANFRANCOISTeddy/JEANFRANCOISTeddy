@@ -28,4 +28,4 @@ Passionate about Blockchain technology and cryptocurrencies trading, I feel real
 ### 📈 My GitHub Stats:
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEANFRANCOISTeddy&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
+
